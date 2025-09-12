@@ -28,6 +28,15 @@ bun install @clerk/expo-passkeys
 
 bun install jotai
 
+<!-- Convex -->
+
+bun install convex convex
+
+bunx convex dev
+
+bun install @clerk/backend
+
+
 
 
 
